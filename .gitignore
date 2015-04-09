@@ -1,0 +1,12 @@
+.DS_Store
+.build*
+node_modules
+node_modules/*
+.Ulysses-Group.plist
+.meteor/local
+smart.lock
+sys/packages
+*.pdf
+*.dvi
+*.swp
+*.swi
